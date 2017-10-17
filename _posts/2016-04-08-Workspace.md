@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 
-image: /images/04-08-2016-Workspace/desk.jpg
+image: /images/2016-04-08-Workspace/desk.jpg
 author: Christopher Thomas
 excerpt: At the end of last year we moved into a new workspace; it's pretty great.
 ---
 
-![Cover]({{ site.baseurl }}/images/04-08-2016-Workspace/desk.jpg "Home sweet home") 
+![Cover]({{ site.baseurl }}/images/2016-04-08-Workspace/desk.jpg "Home sweet home") 
 
 Over the course of the last year or so the FoxGuard Software Engineering group has grown from a handful of employees scattered across myriad departments into a cohesive team with a tight-knit culture and an articulated ethos of professionalism and sustainability.  In the last quarter of 2015 the team moved from desks and offices strewn about one of our buildings to a purpose-built development pit, bringing everyone together in one room and, in most cases, at one desk.
 
