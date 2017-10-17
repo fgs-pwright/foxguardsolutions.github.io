@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vagrant First Steps - Hyper-V Host and Windows Server Core Guest
-image: /images/01-27-2016-Vagrant-First-Steps/Vagrant.png
+image: /images/2016-01-27-Vagrant-First-Steps/Vagrant.png
 author: Bruce Markham
 excerpt: Ultimately looking to automate test environment & build slave spin-up, we had a few constraints that made things complicated. We ran into snags, so keep reading if you plan on dipping your toes in this water.
 ---
