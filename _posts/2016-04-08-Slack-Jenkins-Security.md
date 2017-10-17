@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Securing Slack Authentication Tokens in Jenkins
-image: /images/04-08-2016-Slack-Jenkins-Security/Slack_Mark_Web.png
+image: /images/2016-04-08-Slack-Jenkins-Security/Slack_Mark_Web.png
 author: Drew Budwin
 excerpt: Adding the ability to safely pass Slack integration tokens as a secret to the Slack plugin for Jenkins.
 ---
 
-![Cover]({{ site.baseurl }}/images/04-08-2016-Slack-Jenkins-Security/securityholes.jpg "Security Holes Everywhere")
+![Cover]({{ site.baseurl }}/images/2016-04-08-Slack-Jenkins-Security/securityholes.jpg "Security Holes Everywhere")
 
 For the uninitiated, [Jenkins](https://jenkins.io/index.html "Jenkins") is a free, extensible continuous integration (CI) web-based tool for building software.  It has hundreds of useful [plugins](https://wiki.jenkins-ci.org/display/JENKINS/Plugins "plugins") to make Jenkins perform a variety of tasks from providing you with [Chuck Norris quotes](https://wiki.jenkins-ci.org/display/JENKINS/ChuckNorris+Plugin "Chuck Norris quotes") to [running static analysis](https://wiki.jenkins-ci.org/display/JENKINS/Cppcheck+Plugin "running static analysis") on your software.
 
