@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Property Injection (The Hard Way) With Ninject
-image: /images/09-28-2015-Property-Injection-The-Hard-Way-With-Ninject/BatmanSlap-PropertyInjectionByAttribute.jpg
+image: /images/2015-09-28-Property-Injection-The-Hard-Way-With-Ninject/BatmanSlap-PropertyInjectionByAttribute.jpg
 author: Bruce Markham
 excerpt: I find the marker attribute for property injection to be a bit distasteful. Maybe we can do better?
 ---
@@ -60,7 +60,7 @@ It just wasn't clean enough for our standards, so I decided to put this option o
     }
 ```
 
-![Cover]({{ site.baseurl }}/images/09-28-2015-Property-Injection-The-Hard-Way-With-Ninject/BatmanSlap-PropertyInjectionByAttribute.jpg "Batman is tired of seeing `[Inject]` everywhere.") 
+![Cover]({{ site.baseurl }}/images/2015-09-28-Property-Injection-The-Hard-Way-With-Ninject/BatmanSlap-PropertyInjectionByAttribute.jpg "Batman is tired of seeing `[Inject]` everywhere.") 
 
 Unfortunately, I find the marker attribute for property injection to be a bit distasteful.
 It couples your code to your dependency injection container's implementation.
