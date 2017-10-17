@@ -1,12 +1,12 @@
 ---
 layout: post
 title: On Unit Tests
-image: /images/08-21-2015-Unit-Tests/vader.png
+image: /images/2015-08-21-Unit-Tests/vader.png
 author: Christopher Thomas
 excerpt: Unit Tests are at the core of a craftsman's approach to software development; this is how we write ours
 ---
 
-![Cover]({{ site.baseurl }}/images/08-21-2015-Unit-Tests/vader.png "Darth Vader Wants You To Write Tests") 
+![Cover]({{ site.baseurl }}/images/2015-08-21-Unit-Tests/vader.png "Darth Vader Wants You To Write Tests") 
 
 As a proponent of the software craftsmanship movement, FoxGuard talks a lot about unit testing.  We write all of our code to be as testable as possible and we hold fast in our insistance that untested code is incomplete code. Unfortunately, these ideas are often novel to developers when we first meet them and many development shops either don't use unit testing or fail to make it a priority in their development process. We hold that unit tests are key to a craftsman's approach to software development. They give us confidence in our code and in our ability to change it without unexpected consequences. To do that, however, unit tests have to be written well.  This is how we write ours.
 

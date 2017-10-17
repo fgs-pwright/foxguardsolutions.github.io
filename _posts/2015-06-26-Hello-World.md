@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Hello World
-image: /images/06-26-2015-Hello-World/hello.jpg
+image: /images/2015-06-26-Hello-World/hello.jpg
 author: Christopher Thomas
 excerpt: FoxGuard Solutions is excited to debut its developers blog as a place to showcase the contributions made by our software development team.
 
 ---
 
-![Cover]({{ site.baseurl }}/images/06-26-2015-Hello-World/hello.jpg "Immagine introduttiva") 
+![Cover]({{ site.baseurl }}/images/2015-06-26-Hello-World/hello.jpg "Immagine introduttiva") 
 
 Every online presence must begin somewhere. As this is a development blog it seems only fitting that it begin with the phrase "Hello World."  For decades a simple program announcing exactly that has been the first step of many a student into the murky waters of the computing sciences.
 
